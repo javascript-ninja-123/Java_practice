@@ -6,7 +6,10 @@ public class Main {
     private static MapleStory Korean_MapleStory = new MapleStory("Skandia");
 
     public static void main(String[] args) {
-        addUser("tjdalsvndn9", 'westman123')
+        addUser("tjdalsvndn9", "'westman123'");
+        getUsers();
+        updateUser("tjdalsvndn9","adsfadsfads");
+        getUsers();
     }
 
     public static void addUser(String userName, String password){

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e0a2476-e5f2-49b9-9aa2-0a1378ac55c7" name="Default" comment="" />
+    <list default="true" id="6880ee76-2493-4c60-af42-202b91b3ddb4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,53 +12,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sung/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
               <folding>
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sung/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapleStory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sung/MapleStory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-              <folding>
-                <element signature="e#123#129#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#1467#1468#0" expanded="true" />
-                <element signature="e#1498#1499#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#310#318#0" expanded="true" />
+                <element signature="e#665#675#0" expanded="true" />
+                <element signature="e#909#918#0" expanded="true" />
+                <element signature="e#1165#1173#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,20 +31,10 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sung/User.java" />
-        <option value="$PROJECT_DIR$/src/com/sung/Players.java" />
         <option value="$PROJECT_DIR$/src/com/sung/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/sung/MapleStory.java" />
       </list>
     </option>
   </component>
@@ -90,48 +45,27 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
+    <option name="x" value="58" />
     <option name="y" value="23" />
     <option name="width" value="1260" />
-    <option name="height" value="665" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ArrayListChallenge2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListChallenge2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayListChallenge2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListChallenge2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayListChallenge2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListChallenge2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sung" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
@@ -149,7 +83,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sung.Main" />
-      <module name="ArrayListChallenge2" />
+      <module name="AutoBoxing" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -180,32 +114,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e0a2476-e5f2-49b9-9aa2-0a1378ac55c7" name="Default" comment="" />
-      <created>1522795883364</created>
+      <changelist id="6880ee76-2493-4c60-af42-202b91b3ddb4" name="Default" comment="" />
+      <created>1522801010523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1522795883364</updated>
-      <workItem from="1522795887831" duration="4788000" />
+      <updated>1522801010523</updated>
+      <workItem from="1522801012706" duration="3033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4788000" />
+    <option name="totallyTimeSpent" value="3033000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1260" height="665" extended-state="0" />
+    <frame x="58" y="23" width="1260" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32994923" />
+      <window_info anchor="bottom" id="Messages" weight="0.3296355" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -235,53 +169,22 @@
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="132">
           <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sung/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sung/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="192">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding>
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sung/MapleStory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-          <folding>
-            <element signature="e#123#129#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#310#318#0" expanded="true" />
+            <element signature="e#665#675#0" expanded="true" />
+            <element signature="e#909#918#0" expanded="true" />
+            <element signature="e#1165#1173#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -338,7 +241,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ArrayListChallenge2</last-edited>
+          <last-edited>AutoBoxing</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

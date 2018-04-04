@@ -51,6 +51,7 @@ public class MapleStory {
         }
     }
 
+
     public ArrayList<User> getUserList() {
         return userList;
     }
